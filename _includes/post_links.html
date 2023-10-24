@@ -1,0 +1,13 @@
+{% if site.paginate %}
+    {% assign posts = paginator.posts %}   
+{% else %}     
+    {% assign posts = site.posts %}   
+{% endif %}
+<ul class="post-list">
+    {%- for post in posts -%}
+    <li>
+        <span class="post-meta">{{ post.date | date: site.date_format }}</span>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor - %}
+</ul>

@@ -38,6 +38,7 @@ plugins:
 
 # Theme specifics
 show_downloads: false
+list_posts: false
 #google_analytics: #[tracking id]
 
 logo: assets/logo.png
@@ -46,8 +47,11 @@ github:
   is_project_page: false
   is_user_page: false
 
+date_format: "%Y-%m-%d"
 
 instagram: "https://www.instagram.com/dynamo_glasgow/"
+paypal_button_id: C6G5F8TLB9BY8
+paypal_button_text: "Donate"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
