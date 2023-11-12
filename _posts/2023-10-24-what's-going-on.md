@@ -20,5 +20,5 @@ We've also taken on some Dr Bike contracts - we are now the primary Dr Bike prov
 Yes, it's an exciting time for us here at Dynamo. I personally am excited to open up our new space and use it for workshops, maintenance sessions and just hanging out. Keep an eye on this website or even better our Instagram page to keep updated.
 
 Yours,
-Emil Carr-Ross
+Emil Carr-Ross,
 Director

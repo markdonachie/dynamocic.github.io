@@ -25,6 +25,19 @@ header {
     }
 }
 
+#header_navigation {
+    list-style-type: none;
+
+    li {
+        display: inline;
+    }
+
+    .active {
+       font-weight: bold;
+       color: #069;
+    }
+}
+
 .socials {
 	width: 100%;
     text-align: center;

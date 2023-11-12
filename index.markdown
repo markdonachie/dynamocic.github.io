@@ -1,6 +1,7 @@
 ---
 
 layout: default
+title: Home
 ---
 
 
@@ -30,6 +31,6 @@ We're in the process of setting up a bicycle workshop space and a membership bas
 
 We have [a short survey](/survey) to help us gauge interest, demand and pick out the best products to have available for loan. Please follow the link and help us out by filling it in!
 
-## Contact
+## Contact Us
 
 You can contact us at [dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com). We look forward to hearing from you!

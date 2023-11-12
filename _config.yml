@@ -38,7 +38,7 @@ plugins:
 
 # Theme specifics
 show_downloads: false
-list_posts: false
+list_posts: true
 #google_analytics: #[tracking id]
 
 logo: assets/logo.png
