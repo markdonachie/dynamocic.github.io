@@ -1,0 +1,10 @@
+list_title: Header Navigation
+links:
+  - title: Home
+    url: /
+
+  - title: Survey
+    url: /survey.html
+
+  - title: Nae Nuts
+    url: /nuts.html
