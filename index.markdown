@@ -17,13 +17,17 @@ Follow us on social media for updates!
 
 ## Our Objects
 
-We are a collective of queer individuals that want to model an alternative to a cycle industry still largely dominated by men.
+We are a collective of queer individuals that want to model an alternative cycling industry.
 
 We want to promote equality and diversity in cycling, create a safe and collaborative space for cycling and maintenance activities, facilitate the sharing of knowledge and skills related to cycling.
 
 We want our space to be open to all, but we centre the experiences of those that are traditionally excluded from cycling spaces.
 
 These values are reflected in [our objects](/objects)
+
+## Repairs
+
+We are taking on a limited amount of repair work. To book in, [email us at dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com)
 
 ## Survey
 
