@@ -4,16 +4,13 @@ layout: default
 title: Home
 ---
 
-
-![Sylwia covered in inner tubes](/media/tube.jpg)
+![Sylwia covered in inner tubes](/media/tube.jpg){:.hero}
 
 ## Dynamo Glasgow CIC is a new, queer-led cycling and maintenance project in Glasgow.
 
 We are under development. So is this website. But we are so excited to join the Glasgow cycling community.
 
 Follow us on social media for updates!
-
-{% include socials.html %}
 
 ## Our Objects
 

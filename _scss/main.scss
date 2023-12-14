@@ -1,0 +1,101 @@
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+@font-face {   font-display:swap;   font-family:PayPalOpen-Bold;   font-style:normal;   src:url(https://www.paypalobjects.com/paypal-ui/fonts/PayPalOpen-Bold.woff2) format("woff2"),   url(https://www.paypalobjects.com/paypal-ui/fonts/PayPalOpen-Bold.woff) format("woff") }
+
+.fa {
+	font-size: 2em;
+}
+
+
+// Make it a bit wider
+.wrapper {
+    width: 75%;
+}
+
+section {
+    width: auto;
+    float: none;
+    margin-left: 340px;
+}
+
+// HEADER
+
+header {
+    width: 300px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1em;
+    
+    h1 {
+        white-space: nowrap;
+    }
+
+    p, ul, ol, table, pre, dl {
+        margin: 0;
+    }
+}
+
+.logo {
+    width: 200px;
+    margin: auto;
+}
+
+#header_navigation {
+    list-style-type: none;
+
+    li {
+        display: inline;
+    }
+
+    .active {
+       font-weight: bold;
+    }
+}
+
+.socials {
+	width: 100%;
+    text-align: center;
+}
+
+.paypal-button {
+    min-width: 6rem;
+    width: 100%;
+
+    text-align: center;
+
+    font-family: PayPalOpen-Bold, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+
+    border: 0.125rem solid rgb(255, 209, 64);
+    border-radius: 1000px;
+    padding: 0.625rem 1.875rem;
+
+    background: rgb(255, 209, 64);
+    color: rgb(0, 48, 135);
+
+    cursor: pointer;
+}
+
+// CONTENT
+
+.hero {
+
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+
+    :after { // This wont work on img as it's self-closing
+        content: attr(alt);
+        display: block;
+
+        width: 100%;
+        height: 100%;
+
+        background-color: #0001;
+    }
+}

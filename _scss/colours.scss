@@ -1,0 +1,35 @@
+$brand-color: #70dbf5;
+$brand-alt-color: #ee8da9;
+
+$text-color: #000;
+$background-color: #fff;
+
+$link-base-color: $brand-alt-color;
+$link-visited-color: $link-base-color;
+$link-hover-color: darken($link-base-color, 20%);
+
+$header-color: $brand-alt-color;
+
+body {
+    background-color: $background-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $header-color;
+}
+
+a {
+    color: $link-base-color;
+
+    &:hover, &:focus {
+        color: $link-hover-color;
+    }
+
+    &:visited, {
+        color: $link-visited-color;
+    }
+}
+
+.active {
+    color: $link-hover-color;
+}
