@@ -8,9 +8,13 @@ title: Home
 
 ## Dynamo Glasgow CIC is a new, queer-led cycling and maintenance project in Glasgow.
 
-We are under development. So is this website. But we are so excited to join the Glasgow cycling community.
+We run a workshop space in the west-end of Glasgow at Unit 21 Hayburn Lane, Glasgow G11 5AT.
 
-Follow us on social media for updates!
+{% include hours.md %}
+
+Please [email or phone](#contact-us) to enquire.
+
+We are also developing a bikepacking equipment library which will be open to memberships. Watch this space and follow our social media to be the first to hear about it.
 
 ## Our Objects
 
@@ -34,4 +38,4 @@ We have [a short survey](/survey) to help us gauge interest, demand and pick out
 
 ## Contact Us
 
-You can contact us at [dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com). We look forward to hearing from you!
+You can contact us at [dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com) or [07707 962939](tel:+447491295995){:.phone}. We look forward to hearing from you!

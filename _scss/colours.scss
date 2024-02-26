@@ -28,6 +28,10 @@ a {
     &:visited, {
         color: $link-visited-color;
     }
+
+    .phone {
+        color: $brand-color;
+    }
 }
 
 .active {

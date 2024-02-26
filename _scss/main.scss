@@ -82,6 +82,14 @@ header {
     cursor: pointer;
 }
 
+#opening-hours + table {
+    background-color: #ff00ff;
+}
+
+header .phone {
+    text-align: center;
+}
+
 // CONTENT
 
 .hero {

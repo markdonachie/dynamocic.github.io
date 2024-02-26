@@ -35,6 +35,16 @@
         </ul>
 
         {% include paypal_donate.html %}
+        
+        {% capture hours %}
+        {% include hours.md %}
+        {% endcapture %}
+        {{ hours | markdownify }}
+        
+        {% capture user_text %}
+        {% include header_text.md %}
+        {% endcapture %}
+        {{ user_text | markdownify }}
 
         {% include socials.html %}
 
