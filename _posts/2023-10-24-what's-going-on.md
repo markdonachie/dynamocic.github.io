@@ -5,7 +5,7 @@ author: "Emil Carr-Ross"
 date: 2023-10-24 21:21:00 +0100
 categories: posts updates
 
-published: true
+published: false
 ---
 
 Dynamo has been ramping up recently. So, what do we have to show for it?
