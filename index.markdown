@@ -38,4 +38,4 @@ We have [a short survey](/survey) to help us gauge interest, demand and pick out
 
 ## Contact Us
 
-You can contact us at [dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com) or [07707 962939](tel:+447491295995){:.phone}. We look forward to hearing from you!
+You can contact us at [dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com) or [07707 962939](tel:+447707962939){:.phone}. We look forward to hearing from you!
