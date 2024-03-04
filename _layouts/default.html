@@ -20,9 +20,13 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" class="logo "/>
         {% endif %}
-		
 
         <p>{{ site.description | default: site.github.project_tagline }}</p> 
+
+        {% capture user_text %}
+        {% include header_text.md %}
+        {% endcapture %}
+        {{ user_text | markdownify }}
         
         <ul id="header_navigation">
             {% for item in site.data.header_navigation.links %}
@@ -35,16 +39,13 @@
         </ul>
 
         {% include paypal_donate.html %}
-        
+       
+        <div id="header-hours">
         {% capture hours %}
         {% include hours.md %}
         {% endcapture %}
         {{ hours | markdownify }}
-        
-        {% capture user_text %}
-        {% include header_text.md %}
-        {% endcapture %}
-        {{ user_text | markdownify }}
+        </div>
 
         {% include socials.html %}
 

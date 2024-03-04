@@ -28,7 +28,7 @@ These values are reflected in [our objects](/objects)
 
 ## Repairs
 
-We are taking on a limited amount of repair work. To book in, [email us at dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com)
+We are taking on a limited amount of repair work. To book in, [email us at hello@dynamocic.org](mailto:hello@dynamocic.org)
 
 ## Survey
 
@@ -38,4 +38,4 @@ We have [a short survey](/survey) to help us gauge interest, demand and pick out
 
 ## Contact Us
 
-You can contact us at [dynamo.glasgow@pm.me](mailto:dynamo.glasgow@protonmail.com) or [07707 962939](tel:+447707962939){:.phone}. We look forward to hearing from you!
+You can contact us at [hello@dynamocic.org](mailto:hello@dynamocic.org) or [07707 962939](tel:+447707962939){:.phone}. We look forward to hearing from you!
