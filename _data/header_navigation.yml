@@ -2,6 +2,9 @@ list_title: Header Navigation
 links:
   - title: Home
     url: /
+  
+  - title: Learn
+    url: /learn/
 
   - title: Survey
     url: /survey.html
