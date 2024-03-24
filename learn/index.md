@@ -10,6 +10,6 @@ We are developing a catalogue of maintenance sessions available at our space in 
 
 See below for the current offerings and more info:
 
-- [Beginner Wheelbuilding](/learn/beginner-wheelbuilding)
-- Puncture repair
-- Basic maintenance
+- [Beginner Wheelbuilding](/learn/beginner-wheelbuilding) (in development)
+- Puncture repair (in development)
+- Basic maintenance (in development)
