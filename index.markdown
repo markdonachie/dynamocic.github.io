@@ -10,6 +10,8 @@ title: Home
 
 We run a workshop space in the west-end of Glasgow at Unit 21 Hayburn Lane, Glasgow G11 5AT.
 
+{% include hours.md %}
+
 Please [email or phone](#contact-us) to enquire.
 
 We are also developing a bikepacking equipment library which will be open to memberships. Watch this space and follow our social media to be the first to hear about it.
