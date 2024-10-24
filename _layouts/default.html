@@ -39,13 +39,6 @@
         </ul>
 
         {% include paypal_donate.html %}
-       
-        <div id="header-hours">
-        {% capture hours %}
-        {% include hours.md %}
-        {% endcapture %}
-        {{ hours | markdownify }}
-        </div>
 
         {% include socials.html %}
 
