@@ -18,7 +18,7 @@ We run a bikepacking and camping equipment library which is open to memberships.
 
 ## Sales and Servicing
 
-To book in for a repair, [email us at hello@dynamocic.org](mailto:hello@dynamocic.org) or call the workshop on 07707962939
+To book in for a repair, email us at [hello@dynamocic.org](mailto:hello@dynamocic.org) or call the workshop on 07707962939
 
 ## Our Objects
 
