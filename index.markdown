@@ -9,7 +9,7 @@ title: Home
 
 ## Dynamo Glasgow CIC is a new, queer-led cycling and maintenance project in Glasgow.
 
-We run a workshop space in the west-end of Glasgow at Unit 21 Hayburn Lane, Glasgow G11 5AT.
+We run a fully operational workshop space in the west-end of Glasgow at Unit 21 Hayburn Lane, Glasgow G11 5AT.
 
 {% include hours.md %}
 
