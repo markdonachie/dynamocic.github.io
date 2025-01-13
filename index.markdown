@@ -34,9 +34,9 @@ These values are reflected in [our objects](/objects)
 
 ## Board Of Directors Recruitment Info 
 
-[Recruitment Pack](/media/DynamoRecruitmentPack.pdf)
+Find out more info via our [Recruitment Pack](/media/DynamoRecruitmentPack.pdf)
 
-[Application form](https://docs.google.com/forms/d/1c8b_FcFOuFhL6YBjSVyCKEEybb4rlLLAWsKuTzzayKk/preview?edit_requested=true/)
+Apply by filling in our [Application form](https://docs.google.com/forms/d/1c8b_FcFOuFhL6YBjSVyCKEEybb4rlLLAWsKuTzzayKk/preview?edit_requested=true/)
 
 ## Survey
 
