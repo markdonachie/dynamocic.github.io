@@ -32,6 +32,12 @@ We want our space to be open to all, but we centre the experiences of those that
 
 These values are reflected in [our objects](/objects)
 
+## Board Of Directors Recruitment Info 
+
+[Recruitment Pack](/media/DynamoRecruitmentPack.pdf)
+
+[Application form](https://docs.google.com/forms/d/1c8b_FcFOuFhL6YBjSVyCKEEybb4rlLLAWsKuTzzayKk/preview?edit_requested=true/)
+
 ## Survey
 
 We have [a short survey](/survey) to help us find out what items you're interested to see in our equipment library. Please fill it in so we can expand our inventory with the most useful items!
