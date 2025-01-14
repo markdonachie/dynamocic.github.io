@@ -1,15 +1,16 @@
 ---
 
 layout: default
-title: Learn
+title: Learn 
 ---
 
 ## Learn at Dynamo Glasgow
 
-We are developing a catalogue of maintenance sessions available at our space in Hayburn Ln.
+Find out more and book via the links below:
 
-See below for the current offerings and more info:
+- Puncture Repair 
+- General Maintenance for Beginners
+- Gears Session
+- Brakes Session
 
-- [Beginner Wheelbuilding](/learn/beginner-wheelbuilding) (in development)
-- Puncture repair (in development)
-- Basic maintenance (in development)
+We offer maintenance classes for organisations, if you are interested please get in touch via our email! 
