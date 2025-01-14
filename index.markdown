@@ -13,8 +13,9 @@ We run a fully operational workshop space in the west-end of Glasgow at Unit 21 
 
 {% include hours.md %}
 
+## Bikepacking and Camping Library 
 
-We run a bikepacking and camping equipment library which is open to memberships. The archive and software is in development but feel free to drop us a message if you're interested in borrowing anything.
+We run a bikepacking and camping equipment library which is open to memberships. The archive and software is in development but feel free to drop us a message if you're interested in borrowing anything!
 
 
 ## Sales and Servicing
