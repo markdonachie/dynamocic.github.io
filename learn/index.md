@@ -4,9 +4,9 @@ layout: default
 title: Learn 
 ---
 
-## Learn at Dynamo Glasgow
+## Learn at our workshop
 
-Find out more and book via the links below:
+Find out more and book via the links below (watch this space for active links)
 
 - Puncture Repair 
 - General Maintenance for Beginners
