@@ -9,6 +9,8 @@ title: Home
 
 ## Dynamo Glasgow CIC is a new, queer-led cycling and maintenance project in Glasgow.
 
+WORKSHOP OPPENING HOURS 
+
 {% include hours.md %}
 
 ## Board Of Directors Recruitment Info 
