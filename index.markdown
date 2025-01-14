@@ -13,14 +13,23 @@ We run a fully operational workshop space in the west-end of Glasgow at Unit 21 
 
 {% include hours.md %}
 
-## Bikepacking and Camping Library 
+## Board Of Directors Recruitment Info 
 
-We run a bikepacking and camping equipment library which is open to memberships. The archive and software is in development but feel free to drop us a message if you're interested in borrowing anything!
+We are currently in the process of expanding our Board of Directors. Deadline for applications is 2nd of February 2025.
 
+For more info check out our [Recruitment Pack](/media/DynamoRecruitmentPack.pdf)
+
+Apply by filling in our [Application form](https://docs.google.com/forms/d/1c8b_FcFOuFhL6YBjSVyCKEEybb4rlLLAWsKuTzzayKk/preview?edit_requested=true/)
 
 ## Sales and Servicing
 
 To book in for a repair, email us at [hello@dynamocic.org](mailto:hello@dynamocic.org) or call the workshop on 07707962939
+
+## Bikepacking and Saddle Library 
+
+We run a bikepacking and camping equipment library which is open to memberships (£50/year). The archive and software is in development but feel free to drop us a message if you're interested in borrowing anything! We have a selection of tents, panniers, matts, saddle bags and much more. We also have a selection of saddles to try if you're struggling with your current one!
+
+We have [a short survey](/survey) to help us find out what items you're interested to see in our equipment library. Please fill it in so we can expand our inventory with the most useful items!
 
 ## Our Objects
 
@@ -31,16 +40,6 @@ We want to promote equality and diversity in cycling, create a safe and collabor
 We want our space to be open to all, but we centre the experiences of those that are traditionally excluded from cycling spaces.
 
 These values are reflected in [our objects](/objects)
-
-## Board Of Directors Recruitment Info 
-
-Find out more info via our [Recruitment Pack](/media/DynamoRecruitmentPack.pdf)
-
-Apply by filling in our [Application form](https://docs.google.com/forms/d/1c8b_FcFOuFhL6YBjSVyCKEEybb4rlLLAWsKuTzzayKk/preview?edit_requested=true/)
-
-## Survey
-
-We have [a short survey](/survey) to help us find out what items you're interested to see in our equipment library. Please fill it in so we can expand our inventory with the most useful items!
 
 ## Contact Us
 
