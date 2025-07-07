@@ -6,7 +6,7 @@ title: Objects
 
 ## Our Objects
 
-These objects are codified in our governeing documents,
+These objects are codified in our governing documents,
 
 1. To promote equality and diversity in cycling.
 2. The provision of a safe, collaborative space for cycling and maintenance
